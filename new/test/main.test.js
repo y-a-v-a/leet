@@ -9,5 +9,11 @@ if (!(result === '@|3(')) {
 }
 
 for (let i = 0; i < 10; i++) {
-  console.log(leet.leetify('Bye bye!'));
+  console.log(leet.leetify('The quick brown fox jumps over the lazy dog'));
+  console.log('');
+}
+
+for (let i = 0; i < 10; i++) {
+  console.log(leet.leetify('who  what  where  why  when'));
+  console.log('');
 }
